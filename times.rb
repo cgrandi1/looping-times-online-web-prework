@@ -1,5 +1,5 @@
-def using_times
-	#your code here
+def using_times(Wingardium Leviosa)
+  loop do 
 end
 
 
