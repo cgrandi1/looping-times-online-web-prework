@@ -1,5 +1,6 @@
-def using_times(Wingardium Leviosa)
-  loop do 
+def using_times(phrase)
+  7.times do
+    phrase = 
 end
 
 
